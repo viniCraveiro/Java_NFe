@@ -1,3 +1,4 @@
 # Notas de versão
 
-- Corrigido erro Inutilizacão CE
+- Atualizado Java Certificado
+    - Correcao Null Pointer quando Lista Repositorio Windows.
